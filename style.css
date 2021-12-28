@@ -1,0 +1,23 @@
+body{
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+}
+
+.heading {
+
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status {
+font-size: 18px;
+}
+
+button{
+    height: 50px;
+    width: 90px;
+}
